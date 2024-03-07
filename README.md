@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @KennyThomas72
-- 👀 I’m interested in a career change - currently looking at the field of data analytics.
-- 🌱 I’m currently learning data analyst skills
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: kenny.r.thomas22@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favorite hobby at the moment is cycling.
+- 👋 Hi, I’m
